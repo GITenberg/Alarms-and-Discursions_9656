@@ -1,0 +1,35 @@
+_repo: Alarms-and-Discursions_9656
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chesterton, G. K. (Gilbert Keith)
+    aliases:
+    - Chesterton, Gilbert Keith
+    - Chesterton, Gilbert K. (Gilbert Keith)
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '80'
+    url: http://www.gutenberg.org/2009/agents/80
+    wikipedia: http://en.wikipedia.org/wiki/G._K._Chesterton
+description: 'Cover; Title Page; Copyright; CONTENTS; Introductory: On Gargoyles;
+  I; II; III; The Surrender of a Cockney; The Nightmare; The Telegraph Poles; A Drama
+  of Dolls; The Man and His Newspaper; The Appetite of Earth; Simmons and the Social
+  Tie; Cheese; The Red Town; The Furrows; The Philosophy of Sight-seeing; A Criminal
+  Head; The Wrath of the Roses; The Gold of Glastonbury; The Futurists; Dukes; The
+  Glory of Grey; The Anarchist; How I found the Superman; The New House; The Wings
+  of Stone; The Three Kinds of Men; The Steward of the Chiltern Hundreds; The Field
+  of Blood; The Strangeness of Luxury'
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9656'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English essays'
+- !lcc 'PR'
+- GITenberg
+title: Alarms and Discursions
+url: http://www.gutenberg.org/ebooks/9656
