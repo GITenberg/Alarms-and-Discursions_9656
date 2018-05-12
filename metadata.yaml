@@ -1,5 +1,8 @@
 _repo: Alarms-and-Discursions_9656
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Chesterton, G. K. (Gilbert Keith)
@@ -19,6 +22,8 @@ description: 'Cover; Title Page; Copyright; CONTENTS; Introductory: On Gargoyles
   Glory of Grey; The Anarchist; How I found the Superman; The New House; The Wings
   of Stone; The Three Kinds of Men; The Steward of the Chiltern Hundreds; The Field
   of Blood; The Strangeness of Luxury'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9656#Alarms-and-Discursions
 gutenberg_issued: '2006-01-01'
 gutenberg_type: Text
 identifiers:
